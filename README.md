@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SagrikaBhandari
-- 👀 I’m interested in Data Science and want to gain/learn alot of knowledge in the field.
+- 👀 I’m interested in Data Science and ready to thrive in demanding digital 
+intelligence processing environments
 - 🌱 I’m currently Doing Masters in Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "https://www.linkedin.com/in/sagrika-bhandari-ab44011aa/"
